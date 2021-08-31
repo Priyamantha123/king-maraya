@@ -120,7 +120,7 @@ King maraya bot ගොඩනැගීමට ඔබට ජංගම දුරක�
 
 #### 02. Click Deploy button
 
-oka [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
+oka [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/king-maraya)
 
 AN Tech Official Youtube Channel : https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ
 
