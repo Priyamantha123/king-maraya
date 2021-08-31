@@ -1413,7 +1413,7 @@ FROM fusuf/whatsasena:latest
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(
     #UPSTREAM_REPO = os.environ.get(
-RUN git clone https://github.com/agentnox/8gh32jk565 /root/8gh32jk565
+RUN git clone https://github.com/isuwabrooo/king-maraya /root/8gh32jk565
 WORKDIR /root/8gh32jk565/
 #3import logging
 #import os
